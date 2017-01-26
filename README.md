@@ -1,0 +1,1 @@
+Checkout system.  Had a little fun with it to showcase some different techniques: inheritance, interfaces, types, static properties, etc.  Could have went further with some dependency injection, random product generation etc.
